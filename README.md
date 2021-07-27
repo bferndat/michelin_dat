@@ -1,5 +1,5 @@
 # michelin_dat
-Data analysis on Michelin rated restaurants across the world.
+Data analysis on Michelin rated restaurants across the world using SQL & R.
 
 For this data analysis project I retrieved a dataset from Kaggle that pertained to Michelin rated restaurants.
 Data included expensiveness, location, michelin rating and food type/category.
